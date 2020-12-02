@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PanchenkoMaster.Views.Achievements">
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="Center" Margin="20">
+            <Label Text="Võidud" Font="20" TextColor="Blue" HorizontalTextAlignment="Center"></Label>
+            <Label Text="1. võit" TextColor="Black" HorizontalTextAlignment="Center"></Label>
+            <Label Text="2. võit" TextColor="Black" HorizontalTextAlignment="Center"></Label>
+            <Label Text="3. võit" TextColor="Black" HorizontalTextAlignment="Center"></Label>
+            <Label Text="4. võit" TextColor="Black" HorizontalTextAlignment="Center"></Label>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
